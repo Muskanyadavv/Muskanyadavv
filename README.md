@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Muksan Yadav.
-- 👀 I’m interested in Web development,c++ .
-- 🌱 I’m currently learning web devolopment, data structures and algorithams.
-  
+- 🌱 I am a full-stack web developer with expertise in MERN stack, as well as prficiency in languages like C++/C, JavaScript. I have solid understanding of Data Structures and Algorithms.
 - 📫 mail- muskanyadv11@gmail.com
 
 <!---
