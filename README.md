@@ -11,7 +11,6 @@
 * ⚡ Proficient in **Data Structures & Algorithms** with strong foundations in **C++, C, and JavaScript/TypeScript**.
 * 🤖 Deep experience integrating **LLM APIs, Vector Search (MongoDB Atlas, ChromaDB)**, and building scalable **RESTful Microservices**.
 * 🏎️ Leveraging modern AI-assisted workflows (**Cursor, Claude Code, Copilot**) for rapid, production-grade delivery.
-* 🎯 **Status:** Immediate Joiner (**15-Day Notice Period**).
 
 ---
 
